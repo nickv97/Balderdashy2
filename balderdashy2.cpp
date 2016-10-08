@@ -3,7 +3,6 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <vector>
 
 using namespace std;
 //functions
@@ -14,5 +13,15 @@ using namespace std;
 
 //main
 int main() {
+
+	int players;
+
+	cout << "Welcome to Balderdashy2!\nPlease enter the number of players: ";
+	cin >> players;
+
+	cout << "\nWe will play with " << players << " players.\n";
+
+	
+
 	return 0;
 }
