@@ -49,10 +49,11 @@ print(definitions[random_number])
 
 
 for player_num in range(players): #checks
-    print("Player ", player_num, "Please enter a defintion: "))
+    print("Player ", player_num, "Please enter a defintion: ")
     definition = input() #add player defintion
 
     player_def[player_num].append(defintion) #I think this works add def to player list
+    player_def[player_num][]
     continue
 
 
