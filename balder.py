@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Oct  8 04:14:59 2016
 
-@author: noahgirard
-"""
 import random
 players = input("Welcome to Balderdashy2!\nPlease enter the number of players: ")
 
@@ -15,7 +11,7 @@ wordbank = []
 
 for line in words_fp:
     wordbank.append(line.strip())
-    
+
 
 
 definitions_fp = open('definitions.txt', 'r')
@@ -23,7 +19,7 @@ definitions = []
 
 for line in definitions_fp:
     definitions.append(line.strip())
-    
+
 
 
 #begin game
