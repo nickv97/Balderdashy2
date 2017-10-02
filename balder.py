@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+#oh lol neither of these things work.
+#I wonder if we can actually get it to work.
 
 import random
 while True:
