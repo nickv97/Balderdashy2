@@ -6,6 +6,9 @@
 #include <cassert>
 #include <vector>
 
+//jesus this was not our best work.
+//I wonder if there is a way to play a game online
+
 using namespace std;
 //functions
 
